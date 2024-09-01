@@ -14,3 +14,6 @@ QR Code Library Card: Auto-generate cards for attendance tracking.
 Technologies
 Backend: PHP, MySQL
 Frontend: HTML, CSS, JavaScript, jQuery, Bootstrap
+<img width="1335" alt="Screenshot 2024-09-01 at 11 27 59 PM" src="https://github.com/user-attachments/assets/f7f7670a-7491-4a23-b7fe-36103cf6e3fb">
+<img width="1344" alt="Screenshot 2024-09-01 at 11 28 23 PM" src="https://github.com/user-attachments/assets/968edd16-8de5-41e0-bbd7-3e687432e63a">
+<img width="1427" alt="Screenshot 2024-09-01 at 11 28 46 PM" src="https://github.com/user-attachments/assets/0799459d-2e0b-49b4-8a0b-494711636492">
